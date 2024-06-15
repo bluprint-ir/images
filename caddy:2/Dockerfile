@@ -1,1 +1,1 @@
-FROM caddy:2
+FROM --platform=linux/amd64 caddy:2
